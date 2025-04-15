@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { X, ArrowUpDown, ArrowDown, ArrowUp } from 'lucide-react';
+import { ArrowUpDown, ArrowDown, ArrowUp } from 'lucide-react';
 import { SortCriteria, SortPanelProps, Client } from '@/types';
 
 export const SortPanel = ({
